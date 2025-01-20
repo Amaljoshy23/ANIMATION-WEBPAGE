@@ -214,13 +214,7 @@ body {
   #about .about-content p:last-child {
     margin-bottom: 0;
   }
-  .about-content img.about-image {
-    max-width: 100%;
-    height: auto;
-    margin-top: 20px;
-    border-radius: 10px; /* Optional: Add rounded corners */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Optional: Add a soft shadow */
-  }
+
   
   /* Contact Section Styles */
   #contact {
